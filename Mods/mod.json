@@ -4,5 +4,6 @@
     "author": "jollyname",
     "version": "1.0.0",
     "description": "Adds a sandbox menu to the game, lets you get any quantity of any item",
-    "thumbnail": "Thumbnail.png"
+    "thumbnail": "Thumbnail.png",
+    "development": "active"
 }
